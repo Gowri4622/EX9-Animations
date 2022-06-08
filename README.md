@@ -30,8 +30,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to add "animation operation”.
-Developed by        : Marinto Richee J
-Registration Number : 212220230031
+Developed by        : Gowri M
+Registration Number : 212220230019
 */
 ```
 ### MainActivity.java
@@ -328,6 +328,18 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
+![Screenshot (113)](https://user-images.githubusercontent.com/75235455/172573450-f3636d4e-82dd-43a6-9279-fcccbb66e56d.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/75235455/172573473-803cb0ae-0a78-48db-9e8b-28cc452ae1f6.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/75235455/172573535-f329e3e6-77d3-44e9-ac5d-bc9d5c9a24c8.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/75235455/172573719-ccbe50cc-c81c-49c2-a08d-19d7b51a4689.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/75235455/172573751-8fd85a6f-2ca9-4b61-80e9-f8cb0afafdb7.png)
+![Screenshot (120)](https://user-images.githubusercontent.com/75235455/172573857-b53b586b-9a91-4eb7-9494-5e629ca15d23.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/75235455/172573783-34b87eb3-ba89-4c05-b24f-c2f80bc4d0bd.png)
+
+
+
+
+
 
 
 ## RESULT:
